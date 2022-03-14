@@ -1,0 +1,16 @@
+PODS:
+  - MHCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - MHCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  MHCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MHCategoryKit: 177c7fb83aabe57ace026df7b7dd0caa9530dfe7
+
+PODFILE CHECKSUM: 00f58a5348462be1390b130dde5f3a8d0426febe
+
+COCOAPODS: 1.11.2
