@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'MHCategoryKit_Example' do
+  pod 'MHCategoryKit', :path => '../'
+
+  target 'MHCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
